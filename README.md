@@ -36,14 +36,6 @@ NexShop/
 2. Open index.html in your browser.
 3. Browse products, add items to the cart, and explore the 
 
-Future Enhancements 🔧
-
-Integration with backend (Node.js / Firebase / PHP) for real user data.
-
-Payment gateway for online transactions.
-
-Advanced filtering and sorting options for products.
-
 Author ✍️
 
 Sachin Yadav
