@@ -32,9 +32,9 @@ NexShop/
 ## How to Use 🚀
 
 1. Clone the repository:
-2. 
-3. Open index.html in your browser.
-4. Browse products, add items to the cart, and explore the 
+ https://github.com/sAchyn119/Task5-Apexplanet.git
+2. Open index.html in your browser.
+3. Browse products, add items to the cart, and explore the 
 
 Future Enhancements 🔧
 
