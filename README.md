@@ -26,14 +26,7 @@
 
 ## Folder Structure 📂
 NexShop/ 
-├── index.html    # Main landing page 
-├── css/ 
-│   
-└── style.css       # Stylesheet 
-├── js/ 
-│   
-└── script.js       
-└── README.md           # Project documentation
+├── index.html    # Main landing page  └── README.md           # Project documentation
 ---
 
 ## How to Use 🚀
